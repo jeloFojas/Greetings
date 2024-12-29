@@ -42,6 +42,7 @@ public class Main {
         }
 
 
+
         for (int i = 1; i <= height / 3; i++) {
             for (int j = 1; j < height; j++) {
                 System.out.print(" ");
