@@ -20,7 +20,7 @@ public class Main {
         System.out.println("  Thank you so much SIR");
         System.out.println("  Ikaw ang dahilan bakit pati");
         System.out.println("  itong Greeting Card ay ");
-        System.out.println("  Nakacode! XD !!!");
+        System.out.println("  Naka-code! XD !!!");
         System.out.println("                          ");
         System.out.println("***********************************");
 
